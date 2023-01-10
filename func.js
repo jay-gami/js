@@ -12,12 +12,12 @@
 
 // exprssion
 
-const calcAge = (currentYear, BirthYear) => {
-    console.log(currentYear - BirthYear);
-    console.log(currentYear + BirthYear);
-    console.log(currentYear - BirthYear);
-    console.log(currentYear * BirthYear);
-    console.log(currentYear % BirthYear);
+// const calcAge = (currentYear, BirthYear) => {
+//     console.log(currentYear - BirthYear);
+//     console.log(currentYear + BirthYear);
+//     console.log(currentYear - BirthYear);
+//     console.log(currentYear * BirthYear);
+//     console.log(currentYear % BirthYear);
 
-} 
-calcAge(10,20);
+// } 
+// calcAge(10,20);
