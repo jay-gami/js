@@ -6,14 +6,18 @@
 
 
 // arrow function
-// const calcAge = (currentYear,BirthYear) => currentYear-BirthYear
+// const calcAge = (currentYear,BirthYear) => currentYear*BirthYear
 
-// console.log(calcAge(2022,2002))
+// console.log(calcAge(20,30))
 
-//exprssion
+// exprssion
 
 const calcAge = (currentYear, BirthYear) => {
     console.log(currentYear - BirthYear);
+    console.log(currentYear + BirthYear);
+    console.log(currentYear - BirthYear);
+    console.log(currentYear * BirthYear);
+    console.log(currentYear % BirthYear);
 
 } 
-calcAge(2022,2000);
+calcAge(10,20);
